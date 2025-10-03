@@ -1,5 +1,4 @@
-<style>
-        /* Base Styles */
+
         :root {
             --primary: #a8d0e6;
             --secondary: #f8c7cc;
@@ -427,4 +426,3 @@
             color: var(--accent);
             font-weight: 500;
         }
-    </style>
